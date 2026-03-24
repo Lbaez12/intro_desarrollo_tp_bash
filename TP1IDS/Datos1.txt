@@ -1,0 +1,8 @@
+77542 Franco Lomba flomba@fi.uba.ar 10
+100223 Juana Pola jpola@fi.uba.ar 4
+122435 Lucia Fernandez lfernandez@fi.uba.ar 9
+200200 Lucas Rodriguez lrodriguez@fi.uba.ar 5
+55476 Francisco Gonzalez fgonzalez@fi.uba.ar 3
+200200 Clara Mendez cmendez@fi.uba.ar 8
+222333 Morena Paez mpaez@fi.uba.ar 6
+123456 Lionel Messi lmessi@fi.uba.ar 7

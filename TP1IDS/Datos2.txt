@@ -1,0 +1,7 @@
+77345 Francisco Lombardo flombardo@fi.uba.ar 7
+200333 Juan Potra jpotra@fi.uba.ar 8
+111111 Lucia Fito lfito@fi.uba.ar 3
+123480 Mia Lujan mlujan@fi.uba.ar 7
+29381 Alejandro Gomez agomez@fi.uba.ar 9
+123499 Nicolas Fernandez nfernandez@fi.uba.ar 3
+
