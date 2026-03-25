@@ -66,7 +66,7 @@ mostrar_alumnos(){
 solicitar_numero(){
     if [[ -f /$RUTA_EPN1/salida/$FILENAME.txt ]]; then
     read -p "Ingrese el numero de padron para obtener los sus datos: " nropadron
-    grep "$nropadron" /$RUTA_EPN1/salida/$FILENAME.txt
+    grep "^$nropadron " /$RUTA_EPN1/salida/$FILENAME.txt
     fi
 }
 
